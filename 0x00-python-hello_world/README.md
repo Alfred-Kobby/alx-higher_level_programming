@@ -9,3 +9,5 @@
 4-print_float.py file: python script to print floating number in 2 decimal places
 
 5-print_string.py file: print string in reptition
+
+6-concat.py file: concatenate strings
