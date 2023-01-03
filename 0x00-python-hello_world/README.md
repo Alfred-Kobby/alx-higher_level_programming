@@ -5,3 +5,5 @@
 2-print.py file: Python script that prints exactly "Programming is like building a multilingual puzzle
 
 3-print_number.py file: python script to print "98 Battery street"
+
+4-print_float.py file: python script to print floating number in 2 decimal places
