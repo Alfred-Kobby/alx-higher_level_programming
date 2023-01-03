@@ -11,3 +11,5 @@
 5-print_string.py file: print string in reptition
 
 6-concat.py file: concatenate strings
+
+7-edges.py file: cut and paste
