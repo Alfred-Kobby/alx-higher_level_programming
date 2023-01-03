@@ -23,3 +23,5 @@
 100-write.py file: print text using the write function in sys
 
 101-compile file: script that compiles python code
+
+102-magic_calculation.py file: function that adds
