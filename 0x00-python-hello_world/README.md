@@ -13,3 +13,5 @@
 6-concat.py file: concatenate strings
 
 7-edges.py file: cut and paste
+
+8-concat_edges.py file: form new sentences
