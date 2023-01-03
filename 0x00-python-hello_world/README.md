@@ -21,3 +21,5 @@
 10-check_cycle.c file: c programming technical question - check if its a cycle
 
 100-write.py file: print text using the write function in sys
+
+101-compile file: script that compiles python code
