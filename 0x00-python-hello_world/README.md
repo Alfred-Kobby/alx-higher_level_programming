@@ -15,3 +15,5 @@
 7-edges.py file: cut and paste
 
 8-concat_edges.py file: form new sentences
+
+9-easter_egg.py file: prints the zen of python
