@@ -19,3 +19,5 @@
 9-easter_egg.py file: prints the zen of python
 
 10-check_cycle.c file: c programming technical question - check if its a cycle
+
+100-write.py file: print text using the write function in sys
