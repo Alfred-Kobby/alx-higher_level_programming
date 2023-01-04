@@ -19,3 +19,5 @@
 9-print_last_digit.py function that prints the last digit of a number
 
 10-add.py file: function that adds two numbers
+
+11-pow.py file: functions that computes a to the power b
