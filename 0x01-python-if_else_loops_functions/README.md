@@ -25,3 +25,5 @@
 12-fizzbuzz.py file: prints Fizz Buzz problem
 
 100-print_tebahpla.py file: prints alphabets in reverse
+
+101-remove_char_at.py file: remove letter at index n
