@@ -21,3 +21,5 @@
 10-add.py file: function that adds two numbers
 
 11-pow.py file: functions that computes a to the power b
+
+12-fizzbuzz.py file: prints Fizz Buzz problem
