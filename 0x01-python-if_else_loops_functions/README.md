@@ -15,3 +15,5 @@
 7-islower.py file: checks if character is lower case
 
 8-uppercase.py file: prints stament in upper case
+
+9-print_last_digit.py function that prints the last digit of a number
