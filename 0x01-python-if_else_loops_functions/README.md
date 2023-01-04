@@ -11,3 +11,5 @@
 5-print_comb2.py file: print 0 to 99
 
 6-print_comb3.py file: prints the combinations of 2 numbers
+
+7-islower.py file: checks if character is lower case
