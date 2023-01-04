@@ -27,3 +27,5 @@
 100-print_tebahpla.py file: prints alphabets in reverse
 
 101-remove_char_at.py file: remove letter at index n
+
+102-magic_calculation.py file: code from byte code
