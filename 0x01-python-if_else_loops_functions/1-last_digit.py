@@ -5,6 +5,8 @@ tempNumber = number
 if number < 0:
     number = -(number)
 last = number % 10
+if tempNumber < 0:
+    last = -(last)
 if last == 0:
     print(f'Last digit of {tempNumber} is {last} and is 0')
 elif last > 5:
