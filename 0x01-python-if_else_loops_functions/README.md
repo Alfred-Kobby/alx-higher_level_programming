@@ -17,3 +17,5 @@
 8-uppercase.py file: prints stament in upper case
 
 9-print_last_digit.py function that prints the last digit of a number
+
+10-add.py file: function that adds two numbers
