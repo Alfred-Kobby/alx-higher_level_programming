@@ -3,3 +3,5 @@
 1-last_digit.py file: check the last digit of a number
 
 2-print_alphabet.py file: prints asci alphabets in lower case
+
+3-print_alphabt.py file: prints asci alphabets except e and q
