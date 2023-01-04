@@ -23,3 +23,5 @@
 11-pow.py file: functions that computes a to the power b
 
 12-fizzbuzz.py file: prints Fizz Buzz problem
+
+100-print_tebahpla.py file: prints alphabets in reverse
