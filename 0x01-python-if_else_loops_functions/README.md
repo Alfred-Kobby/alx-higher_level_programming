@@ -5,3 +5,5 @@
 2-print_alphabet.py file: prints asci alphabets in lower case
 
 3-print_alphabt.py file: prints asci alphabets except e and q
+
+4-print_hexa.py file: print 0 to 98 in hexadecimal
