@@ -12,4 +12,4 @@ if last == 0:
 elif last > 5:
     print(f'Last digit of {tempNumber} is {last} and is greater than 5')
 else:
-    print(f'Last digit of {tempNumber} is {last} and is less than 6 and not 0') 
+    print(f'Last digit of {tempNumber} is {last} and is less than 6 and not 0')
