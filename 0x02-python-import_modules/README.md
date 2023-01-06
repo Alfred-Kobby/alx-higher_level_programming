@@ -7,3 +7,5 @@
 3-infinite_add.py file: program that adds up all arguments passed
 
 4-hidden_discovery.py file: a program that prints all the names
+
+5-variable_load.py file: a program that imports a variable and print it
