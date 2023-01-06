@@ -11,3 +11,5 @@
 5-variable_load.py file: a program that imports a variable and print it
 
 100-my_calculator.py file: program that imports all functions from the file calculator_1.py and handles basic operations.
+
+101-easy_print.py file: prints pythonIsCool without using print
