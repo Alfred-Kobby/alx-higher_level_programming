@@ -13,3 +13,5 @@
 100-my_calculator.py file: program that imports all functions from the file calculator_1.py and handles basic operations.
 
 101-easy_print.py file: prints pythonIsCool without using print
+
+102-magic_calculation.py file: code from bytcode
