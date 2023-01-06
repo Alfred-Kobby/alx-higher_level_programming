@@ -15,3 +15,5 @@
 101-easy_print.py file: prints pythonIsCool without using print
 
 102-magic_calculation.py file: code from bytcode
+
+103-fast_alphabet.py file: prints alphabets in uppercase
