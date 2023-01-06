@@ -9,3 +9,5 @@
 4-hidden_discovery.py file: a program that prints all the names
 
 5-variable_load.py file: a program that imports a variable and print it
+
+100-my_calculator.py file: program that imports all functions from the file calculator_1.py and handles basic operations.
