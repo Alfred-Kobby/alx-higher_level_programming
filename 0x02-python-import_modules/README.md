@@ -5,3 +5,5 @@
 2-args.py file: program that the number of arguements and list them
 
 3-infinite_add.py file: program that adds up all arguments passed
+
+4-hidden_discovery.py file: a program that prints all the names
