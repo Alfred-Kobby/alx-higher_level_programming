@@ -25,3 +25,5 @@
 12-switch.py file: switches the values
 
 13-is_palindrome.c file: checks if a singly linked list is a palindrome.
+
+100-print_python_list_info.c file: a C function that prints some basic info about Python lists.
