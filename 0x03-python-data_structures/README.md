@@ -11,3 +11,5 @@
 5-no_c.py file: removes all c and C from a string
 
 6-print_matrix_integer.py file: prints a matrix of integers
+
+7-add_tuple.py file: adds two tuples
