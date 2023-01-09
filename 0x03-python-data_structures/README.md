@@ -5,3 +5,5 @@
 2-replace_in_list.py file: replaces an item at a particular index
 
 3-print_reversed_list_integer.py file: prints list in reverse
+
+4-new_in_list.py file: replaces an element in a list at a specific position without modifying the original list
