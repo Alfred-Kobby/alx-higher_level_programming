@@ -15,3 +15,5 @@
 7-add_tuple.py file: adds two tuples
 
 8-multiple_returns.py file:  returns a tuple with the length of a string and its first character
+
+9-max_integer.py file: finds the biggest number in a list`
