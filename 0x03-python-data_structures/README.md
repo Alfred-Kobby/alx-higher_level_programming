@@ -23,3 +23,5 @@
 11-delete_at.py file: deletes an item at a particular index
 
 12-switch.py file: switches the values
+
+13-is_palindrome.c file: checks if a singly linked list is a palindrome.
