@@ -21,3 +21,5 @@
 10-divisible_by_2.py file: finds all multiple of 2 in a list
 
 11-delete_at.py file: deletes an item at a particular index
+
+12-switch.py file: switches the values
