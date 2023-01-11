@@ -19,3 +19,5 @@
 9-multiply_by_2.py file: returns a new dictionary with all values multiplied by 2
 
 10-best_score.py file: find the highest score in a dictionary
+
+11-multiply_list_map.py file: returns a list with all its members multiplied by a number without using a loop
