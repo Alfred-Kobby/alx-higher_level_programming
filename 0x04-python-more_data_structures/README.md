@@ -27,3 +27,5 @@
 100-weight_average.py file: calculates weighted average
 
 101-square_matrix_map.py file: computes the square of all integers in a matrix
+
+102-complex_delete.py file: deletes keys with a specific value
