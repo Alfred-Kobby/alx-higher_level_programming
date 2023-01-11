@@ -25,3 +25,5 @@
 12-roman_to_int.py file; converts roman numeral to integer
 
 100-weight_average.py file: calculates weighted average
+
+101-square_matrix_map.py file: computes the square of all integers in a matrix
