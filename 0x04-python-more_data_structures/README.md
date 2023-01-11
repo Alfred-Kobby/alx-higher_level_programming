@@ -15,3 +15,5 @@
 7-update_dictionary.py file: update or add key/value pair
 
 8-simple_delete.py file: deletes key in a dictionary
+
+9-multiply_by_2.py file: returns a new dictionary with all values multiplied by 2
