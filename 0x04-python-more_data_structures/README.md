@@ -17,3 +17,5 @@
 8-simple_delete.py file: deletes key in a dictionary
 
 9-multiply_by_2.py file: returns a new dictionary with all values multiplied by 2
+
+10-best_score.py file: find the highest score in a dictionary
