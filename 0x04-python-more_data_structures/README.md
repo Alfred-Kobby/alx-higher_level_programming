@@ -29,3 +29,5 @@
 101-square_matrix_map.py file: computes the square of all integers in a matrix
 
 102-complex_delete.py file: deletes keys with a specific value
+
+103-python.c file: prints some info about python list
