@@ -13,3 +13,5 @@
 6-print_sorted_dictionary.py file: print sorted dictionary
 
 7-update_dictionary.py file: update or add key/value pair
+
+8-simple_delete.py file: deletes key in a dictionary
