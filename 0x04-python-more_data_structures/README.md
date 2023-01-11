@@ -11,3 +11,5 @@
 5-number_keys.py file: returns the number of keys in a dictionary
 
 6-print_sorted_dictionary.py file: print sorted dictionary
+
+7-update_dictionary.py file: update or add key/value pair
