@@ -23,3 +23,5 @@
 11-multiply_list_map.py file: returns a list with all its members multiplied by a number without using a loop
 
 12-roman_to_int.py file; converts roman numeral to integer
+
+100-weight_average.py file: calculates weighted average
