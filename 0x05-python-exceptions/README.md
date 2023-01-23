@@ -15,3 +15,5 @@
 100-safe_print_integer_err.py file: prints an integer
 
 101-safe_function.py: a function that executes a function safely
+
+102-magic_calculation.py file: python bytcode to code
