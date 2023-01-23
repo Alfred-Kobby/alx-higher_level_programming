@@ -7,3 +7,5 @@
 3-safe_print_division.py file: a function that divides 2 integers and prints the results
 
 4-list_division.py file: divides element by element 2 list
+
+5-raise_exception.py file: function that raise an exception type
