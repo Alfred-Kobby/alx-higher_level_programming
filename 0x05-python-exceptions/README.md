@@ -11,3 +11,5 @@
 5-raise_exception.py file: function that raise an exception type
 
 6-raise_exception_msg.py file: raise an exception with a message
+
+100-safe_print_integer_err.py file: prints an integer
