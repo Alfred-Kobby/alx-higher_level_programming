@@ -9,3 +9,5 @@
 4-list_division.py file: divides element by element 2 list
 
 5-raise_exception.py file: function that raise an exception type
+
+6-raise_exception_msg.py file: raise an exception with a message
