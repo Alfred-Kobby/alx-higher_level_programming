@@ -7,3 +7,5 @@
 3-square.py file: defines a square with size and area
 
 4-square.py file: defines square with size, setters and getters
+
+5-square.py file: defines square with size, seteers, getters and print
