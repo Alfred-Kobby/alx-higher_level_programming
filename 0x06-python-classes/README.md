@@ -17,3 +17,5 @@
 101-square.py file: creates a square
 
 102-square.py file: defines a square
+
+103-magic_class.py file: magic class from bytecode
