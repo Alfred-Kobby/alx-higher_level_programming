@@ -15,3 +15,5 @@
 100-singly_linked_list.py file: defines a node of singly linked list
 
 101-square.py file: creates a square
+
+102-square.py file: defines a square
