@@ -13,3 +13,5 @@
 6-square.py file: defines a square with size, postion, setters, getters, area and print
 
 100-singly_linked_list.py file: defines a node of singly linked list
+
+101-square.py file: creates a square
