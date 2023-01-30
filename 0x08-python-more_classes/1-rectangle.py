@@ -37,7 +37,7 @@ class Rectangle:
             TypeError: Exception if width is not an integer
             ValueError: Exception if width is less than 0
         """
-        if type(value) is not int:
+        if not isinstance(value, int):
             raise TypeError("width must be an integer")
         elif value < 0:
             raise ValueError("width must be >= 0")
@@ -55,7 +55,7 @@ class Rectangle:
 
     @height.setter
     def height(self, value):
-        """check errors and setter for width attribute
+        """check errors and setter for height attribute
 
         Args:
             value: Value to checking errors
@@ -64,7 +64,7 @@ class Rectangle:
             TypeError: Exception if height is not an integer
             ValueError: Exception if height is less than 0
         """
-        if type(value) is not int:
+        if not isinstance(value, int):
             raise TypeError("height must be an integer")
         elif value < 0:
             raise ValueError("height must be >= 0")
