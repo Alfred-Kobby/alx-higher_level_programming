@@ -17,3 +17,5 @@
 8-rectangle.py file: defines a class of rectangle with class attribute, number_of_instnce, area, permeter, str, repr, del and class method print_symbol and static methods
 
 9-rectangle.py file: defines a class of rectangle with class attribute, number_of_instnce, area, permeter, str, repr, del and class method print_symbol, static methods and class method
+
+101-nqueens.py: the queens game board
