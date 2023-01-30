@@ -93,7 +93,7 @@ class Rectangle:
         """Print a rectangle using # character
         """
         if self.__height == 0 or self.__width == 0:
-            print()
+            print("")
         else:
             for i in range(self.__height):
                 for j in range(self.__width):
