@@ -139,4 +139,9 @@ class Rectangle:
 
     @classmethod
     def square(cls, size=0):
-        cls.__init__(width=size, height=size)
+        """Return a new Rectangle with width and height equal to size.
+
+        Args:
+            size (int): The width and height of the new Rectangle.
+        """
+        return (cls(size, size))
