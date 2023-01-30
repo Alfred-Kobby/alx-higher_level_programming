@@ -11,3 +11,5 @@
 5-rectangle.py file: defines a class of rectangle with area, permeter, str, repr and del
 
 6-rectangle.py file: defines a class of rectangle with class attribute, number_of_instnce, area, permeter, str, repr and del
+
+7-rectangle.py file: defines a class of rectangle with class attribute, number_of_instnce, area, permeter, str, repr, del and class method print_symbol
