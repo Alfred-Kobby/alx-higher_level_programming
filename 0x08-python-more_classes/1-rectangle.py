@@ -6,7 +6,7 @@ created on Mon Jan 30 17:43:34 2023
 
 
 class Rectangle:
-    """Represent a square."""
+    """Represent a Rectangle."""
 
     def __init__(self, width=0, height=0):
         """Initialize a new Rectangle.
