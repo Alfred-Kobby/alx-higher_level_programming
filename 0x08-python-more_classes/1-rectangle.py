@@ -43,3 +43,30 @@ class Rectangle:
             raise ValueError("width must be >= 0")
         else:
             self.__width = value
+
+    @property
+    def height(self):
+        """Call the function to checking property
+
+        Returns:
+            The height of the rectangle
+        """
+        return self.__height
+
+    @height.setter
+    def height(self, value):
+        """check errors and setter for width attribute
+
+        Args:
+            value: Value to checking errors
+
+        Raises:
+            TypeError: Exception if height is not an integer
+            ValueError: Exception if height is less than 0
+        """
+        if type(value) is not int:
+            raise TypeError("height must be an integer")
+        elif value < 0:
+            raise ValueError("width must be >= 0")
+        else:
+            self.__height = value
