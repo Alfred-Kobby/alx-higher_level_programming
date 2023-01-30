@@ -1,0 +1,1 @@
+0-rectangle.py file: an empty class that defines a rectangle
