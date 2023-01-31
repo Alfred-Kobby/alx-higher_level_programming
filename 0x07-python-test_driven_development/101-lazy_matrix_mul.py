@@ -6,7 +6,6 @@ created on Sun Jan 29 17:43:34 2023
 import numpy as np
 
 
-
 def lazy_matrix_mul(m_a, m_b):
     """Return the multiplication of two matrices.
 
