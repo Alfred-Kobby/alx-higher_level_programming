@@ -1,0 +1,1 @@
+0-answer.txt file: function to get the type of an object
