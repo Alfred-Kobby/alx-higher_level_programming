@@ -11,3 +11,5 @@
 5-base_geometry.py file: empty class BaseGeometry
 
 6-base_geometry.py file: BaseGemoetry class with area 
+
+7-base_geometry.py file: BaseGeometry class with area and integer validator
