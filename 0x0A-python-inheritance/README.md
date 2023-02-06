@@ -9,3 +9,5 @@
 4-inherits_from.py file: returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class
 
 5-base_geometry.py file: empty class BaseGeometry
+
+6-base_geometry.py file: BaseGemoetry class with area 
