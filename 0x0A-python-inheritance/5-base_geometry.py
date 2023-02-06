@@ -5,5 +5,5 @@ Created on Mon Feb 06 16:21:54 2023
 
 
 class BaseGeometry:
-    """Defines a BaseGeometry class."""
+    """Represent base geometry."""
     pass
