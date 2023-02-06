@@ -1,3 +1,7 @@
 0-lookup.py file: returns the list of available attributes and methods of an object
 
 1-my_list.py file: a class MyList that inherits from list
+
+2-is_same_class.py file: returns True if the object is exactly an instance of the specified class
+
+3-is_kind_of_class.py file: returns True if the object is an instance of or if the object is an instance of a class that inherited from, the specified class
