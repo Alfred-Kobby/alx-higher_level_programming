@@ -3,7 +3,6 @@
 created on Tue Feb 07 17:43:34 2023
 @author: Alfred Ternor
 """
-import json as j
 
 
 class Student:
@@ -32,4 +31,5 @@ class Student:
         Args:
             json: the json string to convert
         """
-        return j.load(json)
+        for k, v in json.items():
+            setattr(self, k, v)
