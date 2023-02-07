@@ -23,3 +23,5 @@
 11-student.py file: a class Student that that retrieves a dictionary representation of a Student with attributes and read_from_json method
 
 12-pascal_triangle.py file: implements pascal's triangle
+
+100-append_after.py file: seaeches a word and insert a new one after that word
