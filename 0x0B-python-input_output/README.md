@@ -25,3 +25,5 @@
 12-pascal_triangle.py file: implements pascal's triangle
 
 100-append_after.py file: seaeches a word and insert a new one after that word
+
+101-stats.py file: reads stdin line by line and computes metrics
