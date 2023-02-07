@@ -3,7 +3,6 @@
 created on Tue Feb 07 17:43:34 2023
 @author: Alfred Ternor
 """
-import json
 
 
 class Student:
