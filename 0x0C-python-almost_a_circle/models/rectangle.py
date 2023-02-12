@@ -3,7 +3,7 @@
 created on Mon Jan 30 17:43:34 2023
 @author: Alfred Ternor
 """
-Base = __import__('base').Base
+from models.base import Base
 
 
 class Rectangle(Base):
