@@ -31,3 +31,11 @@
 15-groups.sql file: list number of records with the same score
 
 16-no_link.sql file: list all records except those without names
+
+100-move_to_utf8.sql
+
+101-avg_temperatures.sql
+
+102-top_city.sql
+
+103-max_state.sql
