@@ -1,2 +1,2 @@
--- List all databases
-SELECT name FROM sys.databases;
+-- Lists all databases of the MySQL server.
+SHOW DATABASES;
