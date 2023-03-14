@@ -27,3 +27,5 @@
 13-change_class.sql file: removes all records with score <= 5
 
 14-average.sql file: computes the score average of all records in second_table
+
+15-groups.sql file: list number of records with the same score
