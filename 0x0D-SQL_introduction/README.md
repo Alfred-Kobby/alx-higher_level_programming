@@ -13,3 +13,5 @@
 6-list_values.sql file: list all the rows of first table
 
 7-insert_value.sql file: insetts a new record into first table
+
+8-count_89.sql file: query to count the number of records with id 89
