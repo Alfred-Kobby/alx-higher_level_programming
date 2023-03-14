@@ -17,3 +17,5 @@
 8-count_89.sql file: query to count the number of records with id 89
 
 9-full_creation.sql file: creates table called second_table and insert records
+
+10-top_score.sql file: List all the records in second_table
