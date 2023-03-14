@@ -23,3 +23,5 @@
 11-best_score.sql file: list all records with score >=10 from second table
 
 12-no_cheating.sql file: updates bob's score
+
+13-change_class.sql file: removes all records with score <= 5
