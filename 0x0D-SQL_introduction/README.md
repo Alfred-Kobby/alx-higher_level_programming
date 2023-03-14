@@ -11,3 +11,5 @@
 5-full_table.sql file: prints full decription of first_table
 
 6-list_values.sql file: list all the rows of first table
+
+7-insert_value.sql file: insetts a new record into first table
