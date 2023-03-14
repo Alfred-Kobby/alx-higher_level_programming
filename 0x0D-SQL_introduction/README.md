@@ -9,3 +9,5 @@
 4-first_table.sql file: creates a table called first_table
 
 5-full_table.sql file: prints full decription of first_table
+
+6-list_values.sql file: list all the rows of first table
