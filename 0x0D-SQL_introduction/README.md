@@ -25,3 +25,5 @@
 12-no_cheating.sql file: updates bob's score
 
 13-change_class.sql file: removes all records with score <= 5
+
+14-average.sql file: computes the score average of all records in second_table
