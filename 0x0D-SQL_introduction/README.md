@@ -29,3 +29,5 @@
 14-average.sql file: computes the score average of all records in second_table
 
 15-groups.sql file: list number of records with the same score
+
+16-no_link.sql file: list all records except those without names
