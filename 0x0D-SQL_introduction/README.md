@@ -19,3 +19,5 @@
 9-full_creation.sql file: creates table called second_table and insert records
 
 10-top_score.sql file: List all the records in second_table
+
+11-best_score.sql file: list all records with score >=10 from second table
