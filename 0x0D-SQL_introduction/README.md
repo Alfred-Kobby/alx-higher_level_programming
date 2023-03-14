@@ -2,4 +2,6 @@
 
 1-create_database_if_missing.sql file: creates a new database
 
-2-remove_database.sql file: deletes or drops a databse
+2-remove_database.sql file: deletes or drops a database
+
+3-list_tables.sql file: list all tables in a database
