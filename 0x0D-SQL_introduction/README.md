@@ -7,3 +7,5 @@
 3-list_tables.sql file: list all tables in a database
 
 4-first_table.sql file: creates a table called first_table
+
+5-full_table.sql file: prints full decription of first_table
