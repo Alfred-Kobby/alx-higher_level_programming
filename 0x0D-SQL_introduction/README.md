@@ -15,3 +15,5 @@
 7-insert_value.sql file: insetts a new record into first table
 
 8-count_89.sql file: query to count the number of records with id 89
+
+9-full_creation.sql file: creates table called second_table and insert records
