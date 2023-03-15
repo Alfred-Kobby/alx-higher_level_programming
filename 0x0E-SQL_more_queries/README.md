@@ -36,4 +36,6 @@
 
 101-not_a_comedy.sql file:  lists all shows without the genre Comedy in the database hbtn_0d_tvshows.
 
- file: ists all shows from hbtn_0d_tvshows_rate by their rating.
+ 102-rating_shows.sql file: ists all shows from hbtn_0d_tvshows_rate by their rating.
+
+ 103-rating_genres.sql file: lists all genres in the database hbtn_0d_tvshows_rate by their rating
