@@ -16,4 +16,6 @@
 
 8-cities_of_california_subquery.sql file: lists all the cities of California that can be found in the database hbtn_0d_usa
 
-9-cities_by_state_join.sql file: 
+9-cities_by_state_join.sql file: lists all cities contained in the database hbtn_0d_usa
+
+10-genre_id_by_show.sql file: lists all shows contained in hbtn_0d_tvshows that have at least one genre linked
