@@ -1,0 +1,1 @@
+0-privileges.sql file: list privileges
