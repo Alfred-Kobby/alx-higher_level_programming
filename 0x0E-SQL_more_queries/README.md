@@ -14,4 +14,6 @@
 
 7-cities.sql file: creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) 
 
-8-cities_of_california_subquery.sql file: 
+8-cities_of_california_subquery.sql file: lists all the cities of California that can be found in the database hbtn_0d_usa
+
+9-cities_by_state_join.sql file: 
