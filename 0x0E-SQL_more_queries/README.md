@@ -33,3 +33,7 @@
 16-shows_by_genre.sql file: lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows
 
 100-not_my_genres.sql file; hbtn_0d_tvshows database to list all genres not linked to the show Dexter
+
+101-not_a_comedy.sql file:  lists all shows without the genre Comedy in the database hbtn_0d_tvshows.
+
+ file: ists all shows from hbtn_0d_tvshows_rate by their rating.
