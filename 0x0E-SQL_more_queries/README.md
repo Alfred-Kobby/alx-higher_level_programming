@@ -9,3 +9,5 @@
 4-never_empty.sql file: creates a table with name, id_not_null
 
 5-unique_id.sql file: creates table unique_id with unique id
+
+6-states.sql file: creates database hbtn_0d_usa and table states
