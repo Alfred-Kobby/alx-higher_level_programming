@@ -6,3 +6,4 @@
 
 3-force_name.sql file: creates the table force_name on your MySQL server
 
+4-never_empty.sql file: creates a table with name, id_not_null
