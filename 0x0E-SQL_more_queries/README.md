@@ -13,3 +13,5 @@
 6-states.sql file: creates database hbtn_0d_usa and table states
 
 7-cities.sql file: creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) 
+
+8-cities_of_california_subquery.sql file: 
