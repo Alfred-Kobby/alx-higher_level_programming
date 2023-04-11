@@ -11,3 +11,5 @@
 5-to_integer.js file: converts to integr and print
 
 6-multi_languages_loop.js prints an array of strings
+
+7-multi_c.js file: prints i love c x times
