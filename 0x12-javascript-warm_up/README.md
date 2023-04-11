@@ -17,3 +17,5 @@
 8-square.js file: prints a square
 
 9-add.js file: a script with a function that adds two numbers
+
+10-factorial.js file: function that prints the factorial of a number
