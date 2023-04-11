@@ -23,3 +23,5 @@
 11-second_biggest.js file: finds the second biggest number
 
 12-object.js file: replaces the value 12 with 89
+
+13-add.js file: adds two integers
