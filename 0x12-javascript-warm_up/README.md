@@ -25,3 +25,11 @@
 12-object.js file: replaces the value 12 with 89
 
 13-add.js file: adds two integers
+
+100-let_me_const.js file: update myVar to 333
+
+101-call_me_moby.js file: a function that executes x times
+
+102-add_me_maybe.js file: increments and call a function
+
+103-object_fct.js file: script by adding a new function incr that increments the integer value
