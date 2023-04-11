@@ -13,3 +13,7 @@
 6-multi_languages_loop.js prints an array of strings
 
 7-multi_c.js file: prints i love c x times
+
+8-square.js file: prints a square
+
+9-add.js file: a script with a function that adds two numbers
