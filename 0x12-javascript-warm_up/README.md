@@ -7,3 +7,5 @@
 3-value_argument.js file: prints the first arguement or no arguements
 
 4-concat.js file: concats two inputs or sentences
+
+5-to_integer.js file: converts to integr and print
