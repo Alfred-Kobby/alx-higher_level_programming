@@ -3,3 +3,5 @@
 1-multi_languages.js file: script that prints 3 lines
 
 2-arguments.js file: prints whether arguement was found or not
+
+3-value_argument.js file: prints the first arguement or no arguements
