@@ -19,3 +19,5 @@
 9-add.js file: a script with a function that adds two numbers
 
 10-factorial.js file: function that prints the factorial of a number
+
+11-second_biggest.js file: finds the second biggest number
