@@ -21,3 +21,5 @@
 10-factorial.js file: function that prints the factorial of a number
 
 11-second_biggest.js file: finds the second biggest number
+
+12-object.js file: replaces the value 12 with 89
