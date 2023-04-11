@@ -7,5 +7,3 @@ if (x) {
 } else {
   console.log('Missing number of occurrences');
 }
-
-
