@@ -7,3 +7,5 @@
 3-rectangle.js file: a rectangle class with constructor and print
 
 4-rectangle.js file: a rectangle with constructor, print, rotate and double
+
+5-square.js file: a square class with a constructor
