@@ -3,8 +3,8 @@ exports.nbOccurences = function (list, searchElement) {
   let numOccurence = 0;
   for (const i of list) {
     if (i === searchElement) {
-      numOccurence++; 
+      numOccurence++;
     }
   }
   return numOccurence;
-}
+};
