@@ -1,5 +1,8 @@
 #!/usr/bin/node
 exports.logMe = function (item) {
-  let counter = 0;
-  console.log(`${counter++}: ${item}`);
+  if (!logMe.count) {
+    logMe.count = 0;
+  }
+  console.log(logMe.count + ': ' + item);
+  logMe.count++;
 };
