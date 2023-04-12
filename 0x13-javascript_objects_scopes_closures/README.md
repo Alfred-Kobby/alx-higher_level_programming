@@ -21,3 +21,5 @@
 10-converter.js file: converts a number from base 10 to specified base
 
 100-map.js file: imports an array and computes a new array
+
+101-sorted.js file: imports a dictionary and sort it
