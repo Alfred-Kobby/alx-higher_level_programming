@@ -11,3 +11,5 @@
 5-square.js file: a square class with a constructor
 
 6-square.js file: a square with constructtor and charPrint
+
+7-occurrences.js file: a function that returns the number of occurrence
