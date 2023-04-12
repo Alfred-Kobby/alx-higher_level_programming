@@ -17,3 +17,5 @@
 8-esrever.js file: a function that returns the reverse
 
 9-logme.js file: function that prints arguments and the number of arguements
+
+10-converter.js file: converts a number from base 10 to specified base
