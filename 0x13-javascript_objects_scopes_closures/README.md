@@ -9,3 +9,5 @@
 4-rectangle.js file: a rectangle with constructor, print, rotate and double
 
 5-square.js file: a square class with a constructor
+
+6-square.js file: a square with constructtor and charPrint
