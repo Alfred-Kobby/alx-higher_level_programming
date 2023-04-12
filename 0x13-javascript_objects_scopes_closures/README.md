@@ -13,3 +13,5 @@
 6-square.js file: a square with constructtor and charPrint
 
 7-occurrences.js file: a function that returns the number of occurrence
+
+8-esrever.js file: a function that returns the reverse
