@@ -1,7 +1,7 @@
-class Rectangle{
-    constructor(w,h){
-        this.width = w;
-        this.height = h;
-    }
+class Rectangle {
+  constructor(w, h){
+    this.width = w;
+    this.height = h;
+  }
 }
 module.exports = Rectangle;
