@@ -1,0 +1,1 @@
+0-rectangle.js file: an empty rectangle class
