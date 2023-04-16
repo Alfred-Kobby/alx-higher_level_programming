@@ -24,3 +24,7 @@ model_state.py base model for state with ORM
 12-model_state_update_id_2.py file: update the name of a state object using ORM
 
 13-model_state_delete_a.py file: deletes all state objects that contains the letter a using ORM
+
+model_city.py base model for cities using ORM
+
+14-model_city_fetch_by_state.py file: displays cities fetched by state id using ORM
