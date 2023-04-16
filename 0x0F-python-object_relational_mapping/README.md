@@ -22,3 +22,5 @@ model_state.py base model for state with ORM
 11-model_state_insert.py file: adds/insert states object into database using ORMs
 
 12-model_state_update_id_2.py file: update the name of a state object using ORM
+
+13-model_state_delete_a.py file: deletes all state objects that contains the letter a using ORM
