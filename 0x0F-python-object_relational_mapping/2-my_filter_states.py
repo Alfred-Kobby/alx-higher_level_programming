@@ -19,7 +19,7 @@ if __name__ == '__main__':
                          passwd=password, db=data, port=3306)
     curs = db.cursor()
     num_rows = curs.execute(f"SELECT * FROM states WHERE states.name =LIKE BINARY\
-                            '{userInput}' ORDER BY states.id;;")
+                            '{userInput}' ORDER BY states.id;")
     rows = curs.fetchall()
     for row in rows:
         print(row)
