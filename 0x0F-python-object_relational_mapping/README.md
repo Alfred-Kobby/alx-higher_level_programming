@@ -34,3 +34,5 @@ relationship_city.py file: improved model of city model
 relationship_state.py file: improved model of state model
 
 100-relationship_states_cities.py file: creates states with city
+
+101-relationship_states_cities_list.py file: list all states objects and their corresponding cities
