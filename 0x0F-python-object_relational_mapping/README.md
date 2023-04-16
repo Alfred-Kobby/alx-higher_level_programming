@@ -29,10 +29,12 @@ model_city.py base model for cities using ORM
 
 14-model_city_fetch_by_state.py file: displays cities fetched by state id using ORM
 
-relationship_city.py file: improved model of city model
+relationship_city.py file: improved model of city model using ORM
 
-relationship_state.py file: improved model of state model
+relationship_state.py file: improved model of state model using ORM
 
-100-relationship_states_cities.py file: creates states with city
+100-relationship_states_cities.py file: creates states with city using ORM
 
-101-relationship_states_cities_list.py file: list all states objects and their corresponding cities
+101-relationship_states_cities_list.py file: list all states objects and their corresponding cities using ORM
+
+102-relationship_cities_states_list.py file: list all the cities in the database using ORM
