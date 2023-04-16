@@ -12,3 +12,5 @@ states
 model_state.py base model for state with ORM
 
 7-model_state_fetch_all.py file: list all states object with ORM
+
+8-model_state_fetch_first.py file: display the first state in db using ORM
