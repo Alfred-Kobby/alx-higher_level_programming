@@ -8,3 +8,5 @@ states
 4-cities_by_state.py file: display cities with only one execute call
 
 5-filter_cities.py file: display cities by using state name with one execute call
+
+model_state.py base model for state with ORM
