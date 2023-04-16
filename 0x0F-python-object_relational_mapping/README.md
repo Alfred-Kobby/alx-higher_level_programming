@@ -5,3 +5,5 @@
 2-my_filter_states.py file: displays cities where name matches input
 
 3-my_safe_filter_states.py file: display cities that matches input but safe from sql injection
+
+4-cities_by_state.py file: display cities with only one execute call
