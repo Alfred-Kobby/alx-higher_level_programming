@@ -10,3 +10,5 @@ states
 5-filter_cities.py file: display cities by using state name with one execute call
 
 model_state.py base model for state with ORM
+
+7-model_state_fetch_all.py file: list all states object with ORM
