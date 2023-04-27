@@ -13,3 +13,5 @@
 6-peak.py
 
 100-status_code.sh file: sends a request to a URL passed as an argument, and displays only the status code of the response
+
+101-post_json.sh file: 
