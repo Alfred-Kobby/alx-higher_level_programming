@@ -7,3 +7,5 @@
 3-methods.sh file: takes in a URL and displays all HTTP methods the server will accept
 
 4-header.sh file: sends a GET request to the URL, and displays the body of the response
+
+5-post_params.sh file:
