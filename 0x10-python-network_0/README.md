@@ -14,4 +14,6 @@
 
 100-status_code.sh file: sends a request to a URL passed as an argument, and displays only the status code of the response
 
-101-post_json.sh file: 
+101-post_json.sh file: Sends a JSON POST request to a given URL with a given JSON file.
+
+102-catch_me.sh file: script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!
