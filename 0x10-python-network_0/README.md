@@ -8,4 +8,4 @@
 
 4-header.sh file: sends a GET request to the URL, and displays the body of the response
 
-5-post_params.sh file:
+5-post_params.sh file: sends a POST request to the passed URL, and displays the body of the response
