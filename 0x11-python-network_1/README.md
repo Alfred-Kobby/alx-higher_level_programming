@@ -10,4 +10,6 @@
 
 5-hbtn_header.py file: Displays the X-Request-Id header variable of a request to a given URL.
 
-6-post_email.py file: 
+6-post_email.py file: Sends a POST request to a given URL with a given email
+
+7-error_code.py file: 
