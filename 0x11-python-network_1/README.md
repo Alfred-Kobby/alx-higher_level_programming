@@ -8,4 +8,6 @@
 
 4-hbtn_status.py file: Fetches https://intranet.hbtn.io/status.
 
-5-hbtn_header.py file: 
+5-hbtn_header.py file: Displays the X-Request-Id header variable of a request to a given URL.
+
+6-post_email.py file: 
