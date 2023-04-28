@@ -6,4 +6,6 @@
 
 3-error_code.py file: ends a request to a given URL and displays the response body. Handles HTTP errors.
 
-4-hbtn_status.py
+4-hbtn_status.py file: Fetches https://intranet.hbtn.io/status.
+
+5-hbtn_header.py file: 
