@@ -13,3 +13,5 @@
 6-completed_tasks.js file: script that computes the number of tasks completed by user id.
 
 100-starwars_characters.js file: script that prints all characters of a Star Wars movie
+
+101-starwars_characters.js file: script that prints all characters of a Star Wars movie:
