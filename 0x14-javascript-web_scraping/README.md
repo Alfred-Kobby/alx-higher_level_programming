@@ -1,0 +1,1 @@
+0-readme.js file: reads and prints the content of a file.
